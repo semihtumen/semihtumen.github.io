@@ -10,8 +10,8 @@ Head of Structural Economic Research, Deputy Head of Research and Monetary
 Policy, Economist, and Analyst at the Central Bank of the Republic of Turkey
 between 2002-2021.</p>
 
-<p>I am interested in Applied Microeconomics with a focus on Labor
-Economics, Human Capital, Immigration/Refugees, and Social Interactions & Networks.
+<p>I am interested in Applied Microeconomics with a particular focus on Labor
+Economics, Human Capital, Immigration/Refugees, Development Economics, and Social Interactions & Networks.
 My research draws on techniques in Causal Inference, Structural Econometrics,
 Machine Learning, and Bayesian Models.</p>
 
