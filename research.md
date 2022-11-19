@@ -8,7 +8,7 @@ layout: page
 <p><b><font color="DodgerBlue">[1]</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field
 experiment and a structural model"
 <br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
-<br>CEPR Discussion Paper #15528, IZA Discussion Paper #14260
+<br>CEPR DP <a href="https://cepr.org/publications/dp15528">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf">#14260</a>
 <br>R&R <i><b><font color="IndianRed">Journal of Political Economy</font></b></i></p>
 
 <p>I am interested in Applied Microeconomics with a particular focus on Labor
