@@ -17,8 +17,8 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://drive.google.com/file/d/16jrq1z3PBqUx6i7IM9u2RmB8B7doFBpA/view?usp=share_link
+resume-external: false
+resume-url: assets/CV_STumen.pdf
 
 url: https://semihtumen.github.io
 # your url: https://USERNAME.github.io
