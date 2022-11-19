@@ -26,7 +26,7 @@ url: https://semihtumen.github.io
 # permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-9757544'
+analytics-google: 'UA-9757544-4'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
