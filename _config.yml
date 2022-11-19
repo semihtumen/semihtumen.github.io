@@ -23,7 +23,7 @@ resume-url: https://drive.google.com/file/d/16jrq1z3PBqUx6i7IM9u2RmB8B7doFBpA/vi
 url: https://semihtumen.github.io
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+# permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
