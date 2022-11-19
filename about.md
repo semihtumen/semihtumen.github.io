@@ -4,19 +4,16 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a Professor of Economics at TED University and a Research Fellow
+at IZA and ERF. Before joining TED University, I served as Deputy Governor,
+Head of Structural Economic Research, Deputy Head of Research and Monetary
+Policy, Economist, and Analyst at the Central Bank of the Republic of Turkey
+between 2002-2021.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>My main area of expertise is Applied Microeconomist with a focus on Labor
+Economics, Human Capital, Immigration/Refugees, and Social Interactions/Networks.
+My research draws on techniques in Causal Inference, Structural Econometrics,
+Machine Learning, and Bayesian Models.</p>
 
 <h2>Skills</h2>
 
