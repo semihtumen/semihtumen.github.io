@@ -4,6 +4,8 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<style>
+h1{font-family:Verdana;}
 <font size="+1"><p><b><u>About me</u></b></p></font>
 
 <p>I am a Professor of Economics at TED University. I am also affiliated with
@@ -24,3 +26,4 @@ Machine Learning, and Bayesian Models.</p>
 <a href="https://semihtumen.github.io/assets/CV_STumen.pdf">Résumé</a>
 
 <a href="mailto:semihtumen@gmail.com">semihtumen@gmail.com</a>
+</style>
