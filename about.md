@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<font size="+2"><p><b><u>About</u></b></p></font>
+<font size="+1"><p><b><u>About me</u></b></p></font>
 
 <p>I am a Professor of Economics at TED University. I am also affiliated with
 IZA and ERF as a Research Fellow. Before joining TED University, I served as a Deputy Governor,
