@@ -8,7 +8,7 @@ description: A Person who travels the world eating noodles
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/Semih.jpg
+picture: # assets/images/Semih.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -18,7 +18,7 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/16jrq1z3PBqUx6i7IM9u2RmB8B7doFBpA/view?usp=share_link
+resume-url: # https://drive.google.com/file/d/16jrq1z3PBqUx6i7IM9u2RmB8B7doFBpA/view?usp=share_link
 
 url: https://semihtumen.github.io
 # your url: https://USERNAME.github.io
@@ -58,7 +58,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
