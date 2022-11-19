@@ -15,4 +15,4 @@ Economics, Human Capital, Immigration/Refugees, and Social Interactions & Networ
 My research draws on techniques in Causal Inference, Structural Econometrics,
 Machine Learning, and Bayesian Models.</p>
 
-<li><a href="mailto:semihtumen@gmail.com">semihtumen@gmail.com</a></li>
+<a href="mailto:semihtumen@gmail.com">semihtumen@gmail.com</a>
