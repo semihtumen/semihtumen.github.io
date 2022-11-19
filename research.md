@@ -7,11 +7,9 @@ layout: page
 
 <p>[1] "Ethnic mixing in early childhood: Evidence from a randomized field
 experiment and a structural model"
-<br>with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou
-<br>CEPR Discussion Paper #15528
-<br>IZA Discussion Paper #14260
-<br>
-<br>R&R <i>Journal of Political Economy</i></p>
+<br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
+<br>CEPR Discussion Paper #15528, IZA Discussion Paper #14260
+<br>R&R <i><b>Journal of Political Economy</b></i></p>
 
 <p>I am interested in Applied Microeconomics with a particular focus on Labor
 Economics, Human Capital, Immigration/Refugees, Development Economics, and Social Interactions & Networks.
