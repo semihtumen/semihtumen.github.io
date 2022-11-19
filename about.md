@@ -16,8 +16,8 @@ My research draws on techniques in Causal Inference, Structural Econometrics,
 Machine Learning, and Bayesian Models.</p>
 
 <p>I received my PhD degree in Economics from the University of Chicago. I also obtained
-MSc in Econometrics and Mathematical Economics from London School of Economics
-and Political Science, and BSc in Economics from Middle East Technical University.</p>
+MSc in Econometrics and Mathematical Economics from the London School of Economics
+and Political Science, and BSc in Economics from the Middle East Technical University.</p>
 
 <a href="https://semihtumen.github.io/assets/CV_STumen.pdf">Résumé</a>
 
