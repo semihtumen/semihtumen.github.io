@@ -1,9 +1,9 @@
 # main text of home
 title: Semih Tumen
-bio: A Person who travels the world eating noodles
+bio: Professor of Economics
 
 # twitter summary info
-description: Professor of Economics
+description: A Person who travels the world eating noodles
 
 # if it's an external image, update below for true
 # better with square images
@@ -18,7 +18,7 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/16jrq1z3PBqUx6i7IM9u2RmB8B7doFBpA/view?usp=share_link
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
