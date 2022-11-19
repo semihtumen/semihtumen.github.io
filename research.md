@@ -5,11 +5,11 @@ layout: page
 
 <p><font size="+1"><b><u>Research in progress</u></b></font></p>
 
-<p>[1] "Ethnic mixing in early childhood: Evidence from a randomized field
+<p><b><font color="Blue">[1]</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field
 experiment and a structural model"
 <br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
 <br>CEPR Discussion Paper #15528, IZA Discussion Paper #14260
-<br>R&R <i><b><font color="Red">Journal of Political Economy</font></b></i></p>
+<br>R&R <i><b><font color="IndianRed">Journal of Political Economy</font></b></i></p>
 
 <p>I am interested in Applied Microeconomics with a particular focus on Labor
 Economics, Human Capital, Immigration/Refugees, Development Economics, and Social Interactions & Networks.
