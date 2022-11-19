@@ -17,10 +17,6 @@ Economics, Human Capital, Immigration/Refugees, and Social Interactions & Networ
 My research draws on techniques in Causal Inference, Structural Econometrics,
 Machine Learning, and Bayesian Models.</p>
 
-<p>PhD in Economics, University of Chicago, 2012
-<br>MSc in Econometrics and Mathematical Economics, LSE, 2006
-<br>BSc in Economics, Middle East Technical University, 2000</p>
-
 <a href="https://semihtumen.github.io/assets/CV_STumen.pdf">Résumé</a>
 
 <a href="mailto:semihtumen@gmail.com">semihtumen@gmail.com</a>
