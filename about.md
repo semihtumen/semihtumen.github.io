@@ -4,6 +4,8 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<p>**About**</p>
+
 <p>I am a Professor of Economics at TED University. I am also affiliated with
 IZA and ERF as a Research Fellow. Before joining TED University, I served as a Deputy Governor,
 Head of Structural Economic Research, Deputy Head of Research and Monetary
