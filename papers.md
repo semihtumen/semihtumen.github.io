@@ -5,8 +5,7 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Journal articles</font></u></b></font></p>
 
-<p><b><font color="LightGreen">&#10018;</font></b> "The economic impact of Syrian refugees on host countries: Quasi-experimental evidence from
-Turkey"
+<p><b><font color="LightGreen">&#10018;</font></b> "The economic impact of Syrian refugees on host countries: Quasi-experimental evidence from Turkey"
 <br><i><b><font color="IndianRed">American Economic Review</font></b></i> (P&P), 106(5), 456-460, 2016
 <br><a href="https://www.aeaweb.org/webcasts/2016/refugees">[AEA webcast]</a>
 
@@ -40,4 +39,9 @@ Turkey"
     
 <p><b><font color="LightGreen">&#10018;</font></b> "Fertility decisions and endogenous residential sorting"
 <br><i><b><font color="IndianRed">Regional Science and Urban Economics</font></b></i>, 42(1), 78-87, 2012
-<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166046211000767">[link]</a>
+<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166046211000767">[link to article]</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "The impact of age-specific minimum wages on youth employment and education: A regression discontinuity analysis"
+<br>(with M. Dayioglu and M. Kucukbayrak)
+<br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 43(6), 1352-1377, 2022
+<br>IZA DP <a href="https://docs.iza.org/dp13982.pdf">#13982</a>
