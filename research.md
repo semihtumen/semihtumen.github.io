@@ -21,7 +21,7 @@ experiment and a structural model"
 
 <p><b><font color="Aqua">&#10018;</font></b> "The crime effect of refugees"
 <br>(with M. Akbulut-Yuksel, N. Mocan, and B. Turan)
-<br>NBER WP <a href="https://www.nber.org/papers/w30070">#30070</a>, IZA DP <a href="https://docs.iza.org/dp15335.pdf">#15335</a>
+<br>[<a href="https://cepr.org/voxeu/columns/crime-effect-refugees">VoxEU</a>], NBER WP <a href="https://www.nber.org/papers/w30070">#30070</a>, IZA DP <a href="https://docs.iza.org/dp15335.pdf">#15335</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
