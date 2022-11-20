@@ -78,6 +78,11 @@ layout: page
 <br>(with T. Zeydanli)
 <br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 37(3), 426-455, 2016
 <br>IZA DP <a href="https://docs.iza.org/dp9505.pdf">#9505</a>, <a href="https://www.emerald.com/insight/content/doi/10.1108/IJM-04-2014-0095/full/html">[link to article]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "A theory of intra-firm group design"
+<br>(with B. Balkan)
+<br><i><b><font color="IndianRed">Journal of Productivity Analysis</font></b></i>, 45(1), 89-102, 2016
+<br>IZA DP <a href="https://docs.iza.org/dp9473.pdf">#9473</a>, <a href="https://link.springer.com/article/10.1007/s11123-015-0452-0">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Skill acquisition in the informal economy and schooling decisions: Evidence from emerging economies"
 <br><i><b><font color="IndianRed">LABOUR</font></b></i>, 29(3), 270-290, 2015
@@ -91,3 +96,7 @@ layout: page
 <br>(with H. Torun)
 <br><i><b><font color="IndianRed">Demographic Research</font></b></i>, 37, 1825-1860, 2017
 <br>IZA DP <a href="https://docs.iza.org/dp10203.pdf">#10203</a>, <a href="https://www.demographic-research.org/volumes/vol37/57/">[open access link]</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "Career choice and the strength of weak ties"
+<br><i><b><font color="IndianRed">Central Bank Review</font></b></i>, 17(3), 91-97, 2017
+<br>IZA DP <a href="https://docs.iza.org/dp10401.pdf">#10401</a>, <a href="https://www.sciencedirect.com/science/article/pii/S1303070117300495">[link to article]</a>
