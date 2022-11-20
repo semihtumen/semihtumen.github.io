@@ -34,7 +34,27 @@ experiment and a structural model"
 <br>IZA DP <a href="https://docs.iza.org/dp10751.pdf">#11869</a>
 <br>R&R <i><b><font color="IndianRed">Journal of Banking & Finance</font></b></i></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Forced migration and housing rents: Evidence from Syrian refugees in Turkiye"
-<br>(with B. Balkan)
+<p><b><font color="Aqua">&#10018;</font></b> "The effect of fertility on female labor supply in a labor market with extensive informality"
+<br>(with B. Turan)
 <br>IZA DP <a href="https://docs.iza.org/dp11611.pdf">#11611</a>
 <br>R&R <i><b><font color="IndianRed">Journal of Housing Economics</font></b></i></p>
+
+<p><b><font color="Aqua">&#10018;</font></b> "Forced migration and housing rents: Evidence from Syrian refugees in Turkiye"
+<br>(with B. Balkan)
+<br>IZA DP <a href="https://docs.iza.org/dp13986.pdf">#13986</a>
+<br>R&R <i><b><font color="IndianRed">Empirical Economics</font></b></i></p>
+
+<p><b><font color="Aqua">&#10018;</font></b> "Education and labor market consequences of student protests in late 1970s and the subsequent military coup in Turkey"
+<br>(with A. Ozturk)
+<br>IZA DP <a href="https://docs.iza.org/dp11733.pdf">#11733</a>
+<br>R&R <i><b><font color="IndianRed">IZA Journal of Labor Policy</font></b></i></p>
+
+<p><b><font color="Aqua">&#10018;</font></b> "Evaluating the impact of the post-2008 employment subsidy program in Turkiye"
+<br>(with B. Balkan, Y.S. Baskaya, S.M. Cilasun, and B. Turan)
+<br>IZA DP <a href="https://docs.iza.org/dp9993.pdf">#9993</a>
+<br>R&R <i><b><font color="IndianRed">World Development</font></b></i></p>
+
+<p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
+<br>(with H. Ulucan)
+IZA DP <a href="https://docs.iza.org/dp12847.pdf">#12847</a>
+<br><i><b><font color="LightGreen">under review</font></b></i></p>
