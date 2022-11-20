@@ -46,6 +46,11 @@ layout: page
 <br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 43(6), 1352-1377, 2022
 <br>IZA DP <a href="https://docs.iza.org/dp13982.pdf">#13982</a>, <a href="https://www.emerald.com/insight/content/doi/10.1108/IJM-02-2021-0079/full/html">[link to article]</a>
 
+<p><b><font color="LightGreen">&#10018;</font></b> "Taxing fossil fuels under speculative storage"
+<br>(with D. Unalmis, I. Unalmis, and D.F. Unsal)
+<br><i><b><font color="IndianRed">Energy Economics</font></b></i>, 53, 64-75, 2016
+<br>IMF WP <a href="https://www.imf.org/external/pubs/ft/wp/2014/wp14228.pdf">#14/228</a>, <a href="https://www.sciencedirect.com/science/article/pii/S014098831400334X">[link to article]</a>
+
 <p><b><font color="LightGreen">&#10018;</font></b> "Quantifying and explaining stickiness in housing rents: A Turkish case study with micro-level data"
 <br>(with C. Aysoy and C. Aysoy)
 <br><i><b><font color="IndianRed">Journal of Housing Economics</font></b></i>, 25, 62-74, 2014
@@ -68,6 +73,11 @@ layout: page
 <br>(with B. Balkan)
 <br><i><b><font color="IndianRed">Industrial Relations</font></b></i>, 55(2), 235-266, 2016
 <br>IZA DP <a href="https://docs.iza.org/dp9455.pdf">#9455</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12135">[link to article]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "Social interactions in job satisfaction"
+<br>(with T. Zeydanli)
+<br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 37(3), 426-455, 2016
+<br>IZA DP <a href="https://docs.iza.org/dp9505.pdf">#9505</a>, <a href="https://www.emerald.com/insight/content/doi/10.1108/IJM-04-2014-0095/full/html">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Skill acquisition in the informal economy and schooling decisions: Evidence from emerging economies"
 <br><i><b><font color="IndianRed">LABOUR</font></b></i>, 29(3), 270-290, 2015
