@@ -67,7 +67,7 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "Firm-size wage gaps along the formal-informal divide: Theory and evidence"
 <br>(with B. Balkan)
 <br><i><b><font color="IndianRed">Industrial Relations</font></b></i>, 55(2), 235-266, 2016
-<br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12135">[link to article]</a>
+<br>IZA DP <a href="https://docs.iza.org/dp9455.pdf">#9455</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12135">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Skill acquisition in the informal economy and schooling decisions: Evidence from emerging economies"
 <br><i><b><font color="IndianRed">LABOUR</font></b></i>, 29(3), 270-290, 2015
