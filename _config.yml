@@ -75,6 +75,7 @@ projects: false
 about: true
 research: true
 papers: true
+chapters: true
 blog: false
 
 # do you want to show the "read time" of the posts?
