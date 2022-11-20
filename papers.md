@@ -26,7 +26,7 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "The impact of Syrian refugees on natives' labor market outcomes in Turkey: Evidence from a quasi-experimental design"
 <br>(with E. Ceritoglu, H.B. Gurcihan-Yunculer, and H. Torun)
 <br><i><b><font color="IndianRed">IZA Journal of Labor Policy</font></b></i>, 6(5), 2017
-<br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[open access link]</a>
+<br>IZA DP <a href="https://docs.iza.org/dp9348.pdf">#9348</a>, <a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[open access link]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The effects of compulsory military service exemption on education and labor market outcomes: Evidence from a natural experiment"
 <br>(with H. Torun)
@@ -62,7 +62,7 @@ layout: page
     
 <p><b><font color="LightGreen">&#10018;</font></b> "Informal versus formal search: Which yields a better pay?"
 <br><i><b><font color="IndianRed">International Journal of Economic Theory</font></b></i>, 12(3), 257-277, 2016
-<br><a href="https://onlinelibrary.wiley.com/doi/10.1111/ijet.12093">[link to article]</a>
+<br>IZA DP <a href="https://docs.iza.org/dp9573.pdf">#9573</a>, <a href="https://onlinelibrary.wiley.com/doi/10.1111/ijet.12093">[link to article]</a>
     
 <p><b><font color="LightGreen">&#10018;</font></b> "Firm-size wage gaps along the formal-informal divide: Theory and evidence"
 <br>(with B. Balkan)
