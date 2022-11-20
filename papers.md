@@ -35,7 +35,7 @@ layout: page
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Refugees and ‘native flight’ from public to private schools"
 <br><i><b><font color="IndianRed">Economics Letters</font></b></i>, 181, 154-159, 2019
-<br>IZA DP <a href="https://docs.iza.org/dp12235.pdf">#12235</a>, <a href=https://www.sciencedirect.com/science/article/abs/pii/S0165176519301892>[link to article]</a>
+<br>IZA DP <a href="https://docs.iza.org/dp12235.pdf">#12235</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165176519301892">[link to article]</a>
     
 <p><b><font color="LightGreen">&#10018;</font></b> "Fertility decisions and endogenous residential sorting"
 <br><i><b><font color="IndianRed">Regional Science and Urban Economics</font></b></i>, 42(1), 78-87, 2012
