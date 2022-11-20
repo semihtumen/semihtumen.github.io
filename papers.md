@@ -21,7 +21,7 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "Immigration and prices: Quasi-experimental evidence from Syrian refugees in Turkey"
 <br>(with B. Balkan)
 <br><i><b><font color="IndianRed">Journal of Population Economics</font></b></i>, 29(3), 657-686, 2016
-<br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[Kuznets prize]</a>, IZA DP <a href="https://docs.iza.org/dp9642.pdf">#9642</a>
+<br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[Kuznets prize]</a>, IZA DP <a href="https://docs.iza.org/dp9642.pdf">#9642</a>, <a href="https://link.springer.com/article/10.1007/s00148-016-0583-2">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The impact of Syrian refugees on natives' labor market outcomes in Turkey: Evidence from a quasi-experimental design"
 <br>(with E. Ceritoglu, H.B. Gurcihan-Yunculer, and H. Torun)
@@ -31,7 +31,7 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "The effects of compulsory military service exemption on education and labor market outcomes: Evidence from a natural experiment"
 <br>(with H. Torun)
 <br><i><b><font color="IndianRed">Economics of Education Review</font></b></i>, 54, 16-35, 2016
-<br>IZA DP <a href="https://docs.iza.org/dp10004.pdf">#10004</a>
+<br>IZA DP <a href="https://docs.iza.org/dp10004.pdf">#10004</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0272775716303326">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Refugees and ‘native flight’ from public to private schools"
 <br><i><b><font color="IndianRed">Economics Letters</font></b></i>, 181, 154-159, 2019
