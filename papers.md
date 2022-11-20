@@ -79,6 +79,11 @@ layout: page
 <br><i><b><font color="IndianRed">Industrial Relations</font></b></i>, 55(2), 235-266, 2016
 <br>IZA DP <a href="https://docs.iza.org/dp9455.pdf">#9455</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12135">[link to article]</a>
     
+<p><b><font color="LightGreen">&#10018;</font></b> "How does a shorter supply chain affect pricing of fresh food? Evidence from a natural experiment"
+<br>(with C. Aysoy and D.H. Kirli)
+<br><i><b><font color="IndianRed">Food Policy</font></b></i>, 57, 104-113, 2015
+<br>CBRT WP <a href="https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Research/Working+Paperss/2015/15-28">#15/28</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306919215001190">[link to article]</a>
+    
 <p><b><font color="LightGreen">&#10018;</font></b> "Entrepreneurship in the shadows: Wealth constraints and government policy"
 <br><i><b><font color="IndianRed">The Economics of Transition</font></b></i>, 25(2), 239-270, 2017
 <br>IZA DP <a href="https://docs.iza.org/dp10324.pdf">#10324</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12117">[link to article]</a>
