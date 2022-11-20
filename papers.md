@@ -26,7 +26,7 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "The impact of Syrian refugees on natives' labor market outcomes in Turkey: Evidence from a quasi-experimental design"
 <br>(with E. Ceritoglu, H.B. Gurcihan-Yunculer, and H. Torun)
 <br><i><b><font color="IndianRed">IZA Journal of Labor Policy</font></b></i>, 6(5), 2017
-<br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[open access]</a>
+<br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[open access link]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The effects of compulsory military service exemption on education and labor market outcomes: Evidence from a natural experiment"
 <br>(with H. Torun)
