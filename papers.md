@@ -35,7 +35,7 @@ layout: page
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Refugees and ‘native flight’ from public to private schools"
 <br><i><b><font color="IndianRed">Economics Letters</font></b></i>, 181, 154-159, 2019
-<br>IZA DP <a href="https://docs.iza.org/dp12235.pdf">#12235</a>
+<br>IZA DP <a href="https://docs.iza.org/dp12235.pdf">#12235</a>, <a href=https://www.sciencedirect.com/science/article/abs/pii/S0165176519301892>[link to article]</a>
     
 <p><b><font color="LightGreen">&#10018;</font></b> "Fertility decisions and endogenous residential sorting"
 <br><i><b><font color="IndianRed">Regional Science and Urban Economics</font></b></i>, 42(1), 78-87, 2012
@@ -44,7 +44,7 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "The impact of age-specific minimum wages on youth employment and education: A regression discontinuity analysis"
 <br>(with M. Dayioglu and M. Kucukbayrak)
 <br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 43(6), 1352-1377, 2022
-<br>IZA DP <a href="https://docs.iza.org/dp13982.pdf">#13982</a>
+<br>IZA DP <a href="https://docs.iza.org/dp13982.pdf">#13982</a>, <a href="https://www.emerald.com/insight/content/doi/10.1108/IJM-02-2021-0079/full/html">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Quantifying and explaining stickiness in housing rents: A Turkish case study with micro-level data"
 <br>(with C. Aysoy and C. Aysoy)
