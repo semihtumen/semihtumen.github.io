@@ -47,7 +47,7 @@ experiment and a structural model"
 <p><b><font color="Aqua">&#10018;</font></b> "Education and labor market consequences of student protests in late 1970s and the subsequent military coup in Turkey"
 <br>(with A. Ozturk)
 <br>IZA DP <a href="https://docs.iza.org/dp11733.pdf">#11733</a>
-<br>R&R <i><b><font color="IndianRed">IZA Journal of Labor Policy</font></b></i></p>
+<br>R&R <i><b><font color="IndianRed">IZA Journal of Labor Economics</font></b></i></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Evaluating the impact of the post-2008 employment subsidy program in Turkiye"
 <br>(with B. Balkan, Y.S. Baskaya, S.M. Cilasun, and B. Turan)
