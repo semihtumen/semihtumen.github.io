@@ -55,3 +55,7 @@ layout: page
 <br>(with H. Ercan and H. Ulucan)
 <br><i><b><font color="IndianRed">Journal of Economic Inequality</font></b></i>, 13(2), 249-273, 2015
 <br><a href="https://link.springer.com/article/10.1007/s10888-014-9278-7">[link to article]</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "Measuring earnings inequality: An economic analysis of the Bonferroni index"
+<br><i><b><font color="IndianRed">Review of Income and Wealth</font></b></i>, 57(4), 727-744, 2011
+<br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-4991.2011.00445.x">[link to article]</a>
