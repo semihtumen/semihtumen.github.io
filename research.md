@@ -19,12 +19,12 @@ experiment and a structural model"
 <br>IZA DP <a href="https://docs.iza.org/dp11869.pdf">#11869</a>
 <br>R&R <i><b><font color="IndianRed">Economic Development and Cultural Change</font></b></i></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "The crime effect of refugees"
+<p><b><font color="Aqua">&#65290;</font></b> "The crime effect of refugees"
 <br>(with M. Akbulut-Yuksel, N. Mocan, and B. Turan)
 <br>NBER WP <a href="https://www.nber.org/papers/w30070">#30070</a>, IZA DP <a href="https://docs.iza.org/dp15335.pdf">#15335</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
+<p><b><font color="Aqua">&#65290;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
 <br>(with M. Vlassopoulos and J. Wahba)
 <br>IZA DP <a href="https://docs.iza.org/dp14557.pdf">#14557</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
@@ -54,7 +54,7 @@ experiment and a structural model"
 <br>IZA DP <a href="https://docs.iza.org/dp9993.pdf">#9993</a>
 <br>R&R <i><b><font color="IndianRed">World Development</font></b></i></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
+<p><b><font color="Aqua">&#65290;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
 <br>(with H. Ulucan)
 <br>IZA DP <a href="https://docs.iza.org/dp12847.pdf">#12847</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
