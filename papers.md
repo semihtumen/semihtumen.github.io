@@ -22,4 +22,4 @@ Turkey"
 <p><b><font color="Aqua">&#10033;</font></b> "Immigration and prices: Quasi-experimental evidence from Syrian refugees in Turkey"
 <br>(with B. Balkan)
 <br><i><b><font color="Chocolate">Journal of Population Economics</font></b></i>, 29(3), 657-686, 2016
-<br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[Kuznets Prize]</a>
+<br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[Kuznets Prize]</a>, IZA DP <a href="https://docs.iza.org/dp9642.pdf">#9642</a>
