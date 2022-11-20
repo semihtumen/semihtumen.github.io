@@ -18,3 +18,8 @@ Turkey"
 <br>(with C.G. Aksoy)
 <br><i><b><font color="Chocolate">Journal of Development Economics</font></b></i>, 149, 102603, 2021
 <br>IZA DP <a href="https://docs.iza.org/dp13145.pdf">#13145</a>
+
+<p><b><font color="Aqua">&#10033;</font></b> "Immigration and prices: Quasi-experimental evidence from Syrian refugees in Turkey"
+<br>(with B. Balkan)
+<br><i><b><font color="Chocolate">Journal of Population Economics</font></b></i>, 29(3), 657-686, 2016
+<br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y">[Kuznets Prize]</a>
