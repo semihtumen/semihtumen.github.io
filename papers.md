@@ -93,15 +93,28 @@ layout: page
 <br><i><b><font color="IndianRed">LABOUR</font></b></i>, 29(3), 270-290, 2015
 <br>CBRT WP <a href="https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Research/Working+Paperss/2015/15-14">#15/14</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/labr.12059">[link to article]</a>
     
-<p><b><font color="LightGreen">&#10018;</font></b> "Informality as a stepping stone: A search-theoretical assessment of informal sector and government policy"
-<br><i><b><font color="IndianRed">Central Bank Review</font></b></i>, 16(3), 109-117, 2016
-<br>IZA DP <a href="https://docs.iza.org/dp10116.pdf">#10116</a>, <a href="https://www.sciencedirect.com/science/article/pii/S1303070116300300">[link to article]</a>
-
 <p><b><font color="LightGreen">&#10018;</font></b> "The empirical content of season of birth effects: An investigation with Turkish data"
 <br>(with H. Torun)
 <br><i><b><font color="IndianRed">Demographic Research</font></b></i>, 37, 1825-1860, 2017
 <br>IZA DP <a href="https://docs.iza.org/dp10203.pdf">#10203</a>, <a href="https://www.demographic-research.org/volumes/vol37/57/">[open access link]</a>
-
+    
 <p><b><font color="LightGreen">&#10018;</font></b> "Career choice and the strength of weak ties"
 <br><i><b><font color="IndianRed">Central Bank Review</font></b></i>, 17(3), 91-97, 2017
-<br>IZA DP <a href="https://docs.iza.org/dp10401.pdf">#10401</a>, <a href="https://www.sciencedirect.com/science/article/pii/S1303070117300495">[link to article]</a>
+<br>IZA DP <a href="https://docs.iza.org/dp10401.pdf">#10401</a>, <a href="https://www.sciencedirect.com/science/article/pii/S1303070117300495">[open access link]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "Regulation and the market for checks"
+<br><i><b><font color="IndianRed">Economic Modelling</font></b></i>, 29(3), 858-867, 2012
+<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0264999311002501">[link to article]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "Can sustained economic growth and declining population coexist?"
+<br>(with C. Elgin)
+<br><i><b><font color="IndianRed">Economic Modelling</font></b></i>, 29(5), 1899-1908, 2012
+<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0264999312001770">[link to article]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "Informality as a stepping stone: A search-theoretical assessment of informal sector and government policy"
+<br><i><b><font color="IndianRed">Central Bank Review</font></b></i>, 16(3), 109-117, 2016
+<br>IZA DP <a href="https://docs.iza.org/dp10116.pdf">#10116</a>, <a href="https://www.sciencedirect.com/science/article/pii/S1303070116300300">[open access link]</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "Regulating check use in Turkey"
+<br><i><b><font color="IndianRed">Central Bank Review</font></b></i>, 12(1), 1-12, 2012
+<br><a href="https://www.tcmb.gov.tr/wps/wcm/connect/b99c43b0-d6fa-4046-b44c-21704179b7d9/jan12-1.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-b99c43b0-d6fa-4046-b44c-21704179b7d9-m3fB6Xj">[open access link]</a>
