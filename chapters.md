@@ -21,3 +21,8 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "The use of natural experiments in migration research"
 <br><i><b><font color="IndianRed">IZA World of Labor</font></b></i>, 191, 1-10, 2015
 <br><a href="https://wol.iza.org/articles/use-of-natural-experiments-in-migration-research/long">[link to article]</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "Refugees and host economies"
+<br>(with Y.E. Akgunduz, A.B. Aydemir, and M. Kirdar)
+<br><i><b><font color="IndianRed">G-20 Insights: Policy Brief</font></b></i>, T20 Task Force 9: Migration and Young Societies, October 2020
+<br><a href="https://www.g20-insights.org/wp-content/uploads/2020/11/T20_TF9_PB7.pdf">[link to article]</a>
