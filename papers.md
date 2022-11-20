@@ -49,7 +49,7 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "Quantifying and explaining stickiness in housing rents: A Turkish case study with micro-level data"
 <br>(with C. Aysoy and C. Aysoy)
 <br><i><b><font color="IndianRed">Journal of Housing Economics</font></b></i>, 25, 62-74, 2014
-<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S1051137714000187">[link to article]</a>
+<br>CBRT WP <a href="https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Research/Working+Paperss/2014/14-09">#14/09</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1051137714000187">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Reassessing the trends in the relative supply of college-equivalent workers in the U.S.: A selection-correction approach"
 <br>(with H. Ercan and H. Ulucan)
