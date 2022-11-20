@@ -120,6 +120,11 @@ layout: page
 <br><i><b><font color="IndianRed">Economic Modelling</font></b></i>, 29(5), 1899-1908, 2012
 <br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0264999312001770">[link to article]</a>
     
+<p><b><font color="LightGreen">&#10018;</font></b> "Agricultural credits and agricultural productivity: Cross-country evidence"
+<br>(with U. Seven)
+<br><i><b><font color="IndianRed">Singapore Economic Review</font></b></i>, 65(s01), 161-183, 2020
+<br>IZA DP <a href="https://docs.iza.org/dp12930.pdf">#12930</a>, <a href="https://www.worldscientific.com/doi/10.1142/S0217590820440014">[link to article]</a>
+    
 <p><b><font color="LightGreen">&#10018;</font></b> "Informality as a stepping stone: A search-theoretical assessment of informal sector and government policy"
 <br><i><b><font color="IndianRed">Central Bank Review</font></b></i>, 16(3), 109-117, 2016
 <br>IZA DP <a href="https://docs.iza.org/dp10116.pdf">#10116</a>, <a href="https://www.sciencedirect.com/science/article/pii/S1303070116300300">[open access link]</a>
