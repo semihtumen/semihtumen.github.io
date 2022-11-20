@@ -5,7 +5,7 @@ layout: page
 
 <p><font size="+1"><b><u>Research in progress</u></b></font></p>
 
-<p><b><font color="DodgerBlue">&#8594;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field
+<p><b><font color="Maroon">&#10018;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field
 experiment and a structural model"
 <br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf">#14260</a>
@@ -22,4 +22,9 @@ experiment and a structural model"
 <p><b><font color="DodgerBlue">&#8594;</font></b> "The crime effect of refugees"
 <br>(with M. Akbulut-Yuksel, N. Mocan, and B. Turan)
 <br>NBER WP <a href="https://www.nber.org/papers/w30070">#30070</a>, IZA DP <a href="https://docs.iza.org/dp15335.pdf">#15335</a>
+<br><i><b><font color="LightGreen">under review</font></b></i></p>
+
+<p><b><font color="DodgerBlue">&#8594;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
+<br>(with M. Vlassopoulos and J. Wahba)
+<br>IZA DP <a href="https://docs.iza.org/dp14557.pdf">#14557</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
