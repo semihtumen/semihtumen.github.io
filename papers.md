@@ -45,3 +45,8 @@ layout: page
 <br>(with M. Dayioglu and M. Kucukbayrak)
 <br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 43(6), 1352-1377, 2022
 <br>IZA DP <a href="https://docs.iza.org/dp13982.pdf">#13982</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "Quantifying and explaining stickiness in housing rents: A Turkish case study with micro-level data"
+<br>(with C. Aysoy and C. Aysoy)
+<br><i><b><font color="IndianRed">Journal of Housing Economics</font></b></i>, 25, 62-74, 2014
+<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S1051137714000187">[link to article]</a>
