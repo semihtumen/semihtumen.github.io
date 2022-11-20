@@ -83,6 +83,11 @@ layout: page
 <br><i><b><font color="IndianRed">The Economics of Transition</font></b></i>, 25(2), 239-270, 2017
 <br>IZA DP <a href="https://docs.iza.org/dp10324.pdf">#10324</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecot.12117">[link to article]</a>
     
+<p><b><font color="LightGreen">&#10018;</font></b> "Is happiness contagious? Separating spillover externalities from the group-level social context"
+<br>(with T. Zeydanli)
+<br><i><b><font color="IndianRed">Journal of Happiness Studies</font></b></i>, 16(3), 719-744, 2015
+<br><a href="https://link.springer.com/article/10.1007/s10902-014-9531-6">[link to article]</a>
+    
 <p><b><font color="LightGreen">&#10018;</font></b> "Social interactions in job satisfaction"
 <br>(with T. Zeydanli)
 <br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 37(3), 426-455, 2016
