@@ -7,7 +7,7 @@ layout: page
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The economic impact of Syrian refugees on host countries: Quasi-experimental evidence from Turkey"
 <br><i><b><font color="IndianRed">American Economic Review</font></b></i> (P&P), 106(5), 456-460, 2016
-<br><a href="https://www.aeaweb.org/webcasts/2016/refugees">[AEA webcast]</a>
+<br><a href="https://www.aeaweb.org/webcasts/2016/refugees">[AEA webcast]</a>, <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20161065">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The effect of refugees on native adolescents' test scores: Quasi-experimental evidence from PISA"
 <br><i><b><font color="IndianRed">Journal of Development Economics</font></b></i>, 150, 102633, 2021
