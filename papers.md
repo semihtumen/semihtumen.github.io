@@ -40,6 +40,11 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "Fertility decisions and endogenous residential sorting"
 <br><i><b><font color="IndianRed">Regional Science and Urban Economics</font></b></i>, 42(1), 78-87, 2012
 <br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166046211000767">[link to article]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "Do vocational high school graduates have better employment outcomes than general high school graduates?"
+<br>(with H. Torun)
+<br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 40(8), 1364-1388, 2019
+<br>IZA DP <a href="https://docs.iza.org/dp10507.pdf">#10507</a>, <a href="https://www.emerald.com/insight/content/doi/10.1108/IJM-11-2017-0314/full/html">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The impact of age-specific minimum wages on youth employment and education: A regression discontinuity analysis"
 <br>(with M. Dayioglu and M. Kucukbayrak)
