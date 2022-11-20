@@ -117,7 +117,7 @@ layout: page
     
 <p><b><font color="LightGreen">&#10018;</font></b> "Regulation and the market for checks"
 <br><i><b><font color="IndianRed">Economic Modelling</font></b></i>, 29(3), 858-867, 2012
-<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0264999311002501">[link to article]</a>
+<br>CBRT WP <a href="https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Research/Working+Paperss/2010/10-06">#10/06</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264999311002501">[link to article]</a>
     
 <p><b><font color="LightGreen">&#10018;</font></b> "Can sustained economic growth and declining population coexist?"
 <br>(with C. Elgin)
