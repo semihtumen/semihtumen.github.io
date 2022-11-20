@@ -5,9 +5,9 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Chapters and other publications</font></u></b></font></p>
 
-<p><b><font color="LightGreen">&#10018;</font></b> "The economic impact of Syrian refugees on host countries: Quasi-experimental evidence from Turkey"
-<br><i><b><font color="IndianRed">American Economic Review</font></b></i> (P&P), 106(5), 456-460, 2016
-<br><a href="https://www.aeaweb.org/webcasts/2016/refugees">[AEA webcast]</a>, <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20161065">[link to article]</a>
+<p><b><font color="LightGreen">&#10018;</font></b> "The impact of forced displacement on housing and urban settlement in host communities"
+<br><i><b><font color="IndianRed">JDC Quarterly Digest</font></b></i>, sixth issue, UNHCR/WB Joint Data Center, 2022
+<br><a href="https://doi.org/10.47053/jdc.300922">[link to chapter]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The effect of refugees on native adolescents' test scores: Quasi-experimental evidence from PISA"
 <br><i><b><font color="IndianRed">Journal of Development Economics</font></b></i>, 150, 102633, 2021
