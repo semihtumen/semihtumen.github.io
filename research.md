@@ -28,3 +28,13 @@ experiment and a structural model"
 <br>(with M. Vlassopoulos and J. Wahba)
 <br>IZA DP <a href="https://docs.iza.org/dp14557.pdf">#14557</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
+
+<p><b><font color="Aqua">&#10018;</font></b> "Consumer loan response to permanent labor income shocks: Evidence from a major minimum wage increase"
+<br>(with Y.S. Hacihasanoglu)
+<br>IZA DP <a href="https://docs.iza.org/dp10751.pdf">#11869</a>
+<br>R&R <i><b><font color="IndianRed">Journal of Banking & Finance</font></b></i></p>
+
+<p><b><font color="Aqua">&#10018;</font></b> "Forced migration and housing rents: Evidence from Syrian refugees in Turkiye"
+<br>(with B. Balkan)
+<br>IZA DP <a href="https://docs.iza.org/dp11611.pdf">#11611</a>
+<br>R&R <i><b><font color="IndianRed">Journal of Housing Economics</font></b></i></p>
