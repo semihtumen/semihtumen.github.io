@@ -11,12 +11,12 @@ layout: page
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The effect of refugees on native adolescents' test scores: Quasi-experimental evidence from PISA"
 <br><i><b><font color="IndianRed">Journal of Development Economics</font></b></i>, 150, 102633, 2021
-<br>IZA DP <a href="https://docs.iza.org/dp14039.pdf">#14039</a>
+<br>IZA DP <a href="https://docs.iza.org/dp14039.pdf">#14039</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387821000122">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Local governance quality and the environmental cost of forced migration"
 <br>(with C.G. Aksoy)
 <br><i><b><font color="IndianRed">Journal of Development Economics</font></b></i>, 149, 102603, 2021
-<br>IZA DP <a href="https://docs.iza.org/dp13145.pdf">#13145</a>
+<br>IZA DP <a href="https://docs.iza.org/dp13145.pdf">#13145</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387820301784">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Immigration and prices: Quasi-experimental evidence from Syrian refugees in Turkey"
 <br>(with B. Balkan)
