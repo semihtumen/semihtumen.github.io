@@ -19,6 +19,6 @@ Machine Learning, and Bayesian Models.</p>
 MSc in Econometrics and Mathematical Economics from the London School of Economics
 and Political Science, and BSc in Economics from the Middle East Technical University.</p>
 
-<a href="https://semihtumen.github.io/assets/CV_STumen.pdf">Résumé</a>
+<a href="https://semihtumen.github.io/assets/CV_STumen.pdf">CV</a>
 
 <a href="mailto:semihtumen@gmail.com">semihtumen@gmail.com</a>
