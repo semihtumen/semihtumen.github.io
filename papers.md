@@ -88,6 +88,11 @@ layout: page
 <br><i><b><font color="IndianRed">Journal of Productivity Analysis</font></b></i>, 45(1), 89-102, 2016
 <br>IZA DP <a href="https://docs.iza.org/dp9473.pdf">#9473</a>, <a href="https://link.springer.com/article/10.1007/s11123-015-0452-0">[link to article]</a>
     
+<p><b><font color="LightGreen">&#10018;</font></b> "Day-of-the-week effects in subjective well-being: Does selectivity matter?"
+<br>(with T. Zeydanli)
+<br><i><b><font color="IndianRed">Social Indicators Research</font></b></i>, 119(1), 139-162, 2014
+<br>CBRT WP <a href="https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Research/Working+Paperss/2013/13-38">#13/38</a>, <a href="https://link.springer.com/article/10.1007/s11205-013-0477-6">[link to article]</a>
+    
 <p><b><font color="LightGreen">&#10018;</font></b> "Home ownership and job satisfaction"
 <br>(with T. Zeydanli)
 <br><i><b><font color="IndianRed">Social Indicators Research</font></b></i>, 117(1), 165-177, 2014
