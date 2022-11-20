@@ -17,3 +17,7 @@ layout: page
 <br>(with M. Mamei, S.M. Cilasun, M. Lippi, and F. Pancotto)
 <br>In: A. A. Salah, A. Pentland, B. Lepri, and E. Letouze (eds) <i><b><font color="IndianRed">Guide to Mobile Data Analytics in Refugee Scenarios</font></b></i>, Springer Nature, Ch 19, 381-402, 2019
 <br><a href="https://doi.org/10.1007/978-3-030-12554-7_19">[link to chapter]</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "The use of natural experiments in migration research"
+<br><i><b><font color="IndianRed">IZA World of Labor</font></b></i>, 191, 1-10, 2015
+<br><a href="https://wol.iza.org/articles/use-of-natural-experiments-in-migration-research/long">[link to article]</a>
