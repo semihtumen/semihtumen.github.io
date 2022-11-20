@@ -59,6 +59,15 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "Measuring earnings inequality: An economic analysis of the Bonferroni index"
 <br><i><b><font color="IndianRed">Review of Income and Wealth</font></b></i>, 57(4), 727-744, 2011
 <br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-4991.2011.00445.x">[link to article]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "Informal versus formal search: Which yields a better pay?"
+<br><i><b><font color="IndianRed">International Journal of Economic Theory</font></b></i>, 12(3), 257-277, 2016
+<br><a href="https://onlinelibrary.wiley.com/doi/10.1111/ijet.12093">[link to article]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "Firm-size wage gaps along the formal-informal divide: Theory and evidence"
+<br>(with B. Balkan)
+<br><i><b><font color="IndianRed">Industrial Relations</font></b></i>, 55(2), 235-266, 2016
+<br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12135">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Skill acquisition in the informal economy and schooling decisions: Evidence from emerging economies"
 <br><i><b><font color="IndianRed">LABOUR</font></b></i>, 29(3), 270-290, 2015
@@ -67,11 +76,6 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "Informality as a stepping stone: A search-theoretical assessment of informal sector and government policy"
 <br><i><b><font color="IndianRed">Central Bank Review</font></b></i>, 16(3), 109-117, 2016
 <br><a href="https://www.sciencedirect.com/science/article/pii/S1303070116300300">[link to article]</a>
-
-<p><b><font color="LightGreen">&#10018;</font></b> "Firm-size wage gaps along the formal-informal divide: Theory and evidence"
-<br>(with B. Balkan)
-<br><i><b><font color="IndianRed">Industrial Relations</font></b></i>, 55(2), 235-266, 2016
-<br><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/irel.12135">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The empirical content of season of birth effects: An investigation with Turkish data"
 <br>(with H. Torun)
