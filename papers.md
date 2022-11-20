@@ -50,3 +50,8 @@ layout: page
 <br>(with C. Aysoy and C. Aysoy)
 <br><i><b><font color="IndianRed">Journal of Housing Economics</font></b></i>, 25, 62-74, 2014
 <br><a href="https://www.sciencedirect.com/science/article/abs/pii/S1051137714000187">[link to article]</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "Reassessing the trends in the relative supply of college-equivalent workers in the U.S.: A selection-correction approach"
+<br>(with H. Ercan and H. Ulucan)
+<br><i><b><font color="IndianRed">Journal of Economic Inequality</font></b></i>, 13(2), 249-273, 2015
+<br><a href="https://link.springer.com/article/10.1007/s10888-014-9278-7">[link to article]</a>
