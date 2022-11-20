@@ -7,5 +7,5 @@ layout: page
 
 <p><b><font color="Aqua">&#10057;</font></b> "The economic impact of Syrian refugees on host countries: Quasi-experimental evidence from
 Turkey"
-<br><i><b><font color="Turquoise">American Economic Review (P&P)</font></b></i>, 106(5), 456-460, 2016
+<br><i><b><font color="Peru">American Economic Review</font></b></i> (P&P), 106(5), 456-460, 2016
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf">#14260</a>
