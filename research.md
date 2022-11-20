@@ -56,5 +56,5 @@ experiment and a structural model"
 
 <p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
 <br>(with H. Ulucan)
-IZA DP <a href="https://docs.iza.org/dp12847.pdf">#12847</a>
+<br>IZA DP <a href="https://docs.iza.org/dp12847.pdf">#12847</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
