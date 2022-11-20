@@ -3,7 +3,7 @@ title: Research
 layout: page
 ---
 
-<p><font size="+1"><b><u>Research in progress</u></b></font></p>
+<p><font size="+1"><b><u><font color="LemonChiffon">Research in progress</font></u></b></font></p>
 
 <p><b><font color="Aqua">&#65290;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field
 experiment and a structural model"
