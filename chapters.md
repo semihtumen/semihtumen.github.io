@@ -26,3 +26,8 @@ layout: page
 <br>(with Y.E. Akgunduz, A.B. Aydemir, and M. Kirdar)
 <br><i><b><font color="IndianRed">G-20 Insights: Policy Brief</font></b></i>, T20 Task Force 9: Migration and Young Societies, October 2020
 <br><a href="https://www.g20-insights.org/wp-content/uploads/2020/11/T20_TF9_PB7.pdf">[link to article]</a>
+
+<p><b><font color="LightGreen">&#10018;</font></b> "Syrian refugees: Economic challenges and opportunities"
+<br><i><b><font color="IndianRed">IEB's Report on Fiscal Federalism and Public Finance '16</font></b></i>, Institut d’Economia de Barcelona (IEB), pp. 10-12, 2016
+<br><a href="https://ieb.ub.edu/wp-content/uploads/2018/04/2016-IEB-Annual-Report-ES-EN-CAT.pdf">[link to article]</a>
+    
