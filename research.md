@@ -11,6 +11,11 @@ experiment and a structural model"
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528" target="_blank">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf" target="_blank">#14260</a>
 <br>R&R <i><b><font color="IndianRed">Journal of Political Economy</font></b></i></p>
 
+<p><b><font color="Aqua">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
+<br>(with M. Vlassopoulos and J. Wahba)
+<br>IZA DP <a href="https://docs.iza.org/dp14557.pdf" target="_blank">#14557</a>
+<br>R&R <i><b><font color="IndianRed">Journal of Human Resources</font></b></i></p>
+
 <p><b><font color="Aqua">&#10018;</font></b> "Social interactions and unemployment fluctuations"
 <br>new version coming soon!
 <br>R&R <i><b><font color="IndianRed">American Economic Journal: Macroeconomics</font></b></i></p>
@@ -22,11 +27,6 @@ experiment and a structural model"
 <p><b><font color="Aqua">&#10018;</font></b> "The crime effect of refugees"
 <br>(with M. Akbulut-Yuksel, N. Mocan, and B. Turan)
 <br>[<a href="https://cepr.org/voxeu/columns/crime-effect-refugees" target="_blank">VoxEU</a>], NBER WP <a href="https://www.nber.org/papers/w30070" target="_blank">#30070</a>, IZA DP <a href="https://docs.iza.org/dp15335.pdf" target="_blank">#15335</a>
-<br><i><b><font color="LightGreen">under review</font></b></i></p>
-
-<p><b><font color="Aqua">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
-<br>(with M. Vlassopoulos and J. Wahba)
-<br>IZA DP <a href="https://docs.iza.org/dp14557.pdf" target="_blank">#14557</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Consumer loan response to permanent labor income shocks: Evidence from a major minimum wage increase"
