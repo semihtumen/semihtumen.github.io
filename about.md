@@ -10,5 +10,5 @@ layout: page
 
 <p>I received my PhD degree in Economics from the University of Chicago. I also obtained MSc in Econometrics and Mathematical Economics from the London School of Economics and Political Science, and BSc in Economics from the Middle East Technical University.</p>
 
-<p>Detailed profile: <a href="https://semihtumen.github.io/assets/CV_STumen.pdf" target="_blank">CV</a></p>
-<p>Contact email: <a href="mailto:semihtumen@gmail.com">semihtumen@gmail.com</a></p>
+<p>Detailed profile: <a href="https://semihtumen.github.io/assets/CV_STumen.pdf" target="_blank">CV</a>
+<br>Contact email: <a href="mailto:semihtumen@gmail.com">semihtumen@gmail.com</a></p>
