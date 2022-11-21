@@ -36,13 +36,13 @@ experiment and a structural model"
 
 <p><b><font color="Aqua">&#10018;</font></b> "The effect of fertility on female labor supply in a labor market with extensive informality"
 <br>(with B. Turan)
-<br>IZA DP <a href="https://docs.iza.org/dp11611.pdf">#11611</a>
-<br>R&R <i><b><font color="IndianRed">Journal of Housing Economics</font></b></i></p>
+<br>IZA DP <a href="https://docs.iza.org/dp13986.pdf">#13986</a>
+<br>R&R <i><b><font color="IndianRed">Empirical Economics</font></b></i></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Forced migration and housing rents: Evidence from Syrian refugees in Turkiye"
 <br>(with B. Balkan)
-<br>IZA DP <a href="https://docs.iza.org/dp13986.pdf">#13986</a>
-<br>R&R <i><b><font color="IndianRed">Empirical Economics</font></b></i></p>
+<br>IZA DP <a href="https://docs.iza.org/dp11611.pdf">#11611</a>
+<br>R&R <i><b><font color="IndianRed">Journal of Housing Economics</font></b></i></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Education and labor market consequences of student protests in late 1970s and the subsequent military coup in Turkey"
 <br>(with A. Ozturk)
