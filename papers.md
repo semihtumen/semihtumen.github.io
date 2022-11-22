@@ -50,6 +50,11 @@ layout: page
 <br>(with M. Dayioglu and M. Kucukbayrak)
 <br><i><b><font color="IndianRed">International Journal of Manpower</font></b></i>, 43(6), 1352-1377, 2022
 <br>IZA DP <a href="https://docs.iza.org/dp13982.pdf" target="_blank">#13982</a>, <a href="https://www.emerald.com/insight/content/doi/10.1108/IJM-02-2021-0079/full/html" target="_blank">[link to article]</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "Product-level estimates of exchange rate pass-through: Evidence from Turkey"
+<br>(with Y.E. Akgunduz, E.M. Bastan, and U. Demiroglu)
+<br><i><b><font color="IndianRed">World Economy</font></b></i>, 44(7), 2203-2226, 2021
+<br>CBRT WP <a href="https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Research/Working+Paperss/2019/19-22" target="_blank">#19/22</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13060" target="_blank">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Taxing fossil fuels under speculative storage"
 <br>(with D. Unalmis, I. Unalmis, and D.F. Unsal)
