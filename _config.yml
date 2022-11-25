@@ -112,6 +112,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-paginate-v2
+  - jekyll-google_search_console_verification_file
 
 compress_html:
   ignore:
