@@ -62,3 +62,7 @@ experiment and a structural model"
 <br>(with H. Ulucan)
 <br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>
 <br><i><b><font color="LightGreen">under review</font></b></i></p>
+
+<p><b><font color="Aqua">&#10018;</font></b> "Effects of indoor smoking bans: Evidence from Turkey"
+<br>(with Y. S. Baskaya)
+<br><i><b><font color="LightGreen">under review</font></b></i></p>
