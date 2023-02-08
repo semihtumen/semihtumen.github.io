@@ -41,7 +41,7 @@ layout: page
 <br><i><b><font color="IndianRed">Regional Science and Urban Economics</font></b></i>, 42(1), 78-87, 2012
 <br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0166046211000767" target="_blank">[link to article]</a>
     
-<p><b><font color="LightGreen">&#10018;</font></b> "Education and labor market consequences of student protests in late 1970s and the subsequent military coup in Turkey"
+<p><b><font color="LightGreen">&#10018;</font></b> "The revolution is dead, long live the demolition: Education and labor market consequences of student riots"
 <br>(with A. Ozturk)
 <br><i><b><font color="IndianRed">IZA Journal of Labor Economics</font></b></i>, forthcoming
 <br>IZA DP <a href="https://docs.iza.org/dp11733.pdf" target="_blank">#11733</a>
