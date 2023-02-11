@@ -28,6 +28,11 @@ experiment and a structural model"
 <br>IZA DP <a href="https://docs.iza.org/dp11869.pdf" target="_blank">#11869</a>
 <br>R&R <i><b><font color="IndianRed">Economic Development and Cultural Change</font></b></i></p>
 
+<p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
+<br>(with H. Ulucan)
+<br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>
+<br>R&R <i><b><font color="IndianRed">Review of Economics of the Household</font></b></i></p>
+
 <p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
 <br>(with C. Ozden and S. Polat)
 <br><i><b><font color="LightGreen">Working paper coming soon!</font></b></i></p>
@@ -56,11 +61,6 @@ experiment and a structural model"
 <br>(with B. Balkan, Y.S. Baskaya, S.M. Cilasun, and B. Turan)
 <br>IZA DP <a href="https://docs.iza.org/dp9993.pdf" target="_blank">#9993</a>
 <br>R&R <i><b><font color="IndianRed">World Development</font></b></i></p>
-
-<p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
-<br>(with H. Ulucan)
-<br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>
-<br><i><b><font color="LightGreen">under review</font></b></i></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Effects of indoor smoking bans: Evidence from Turkey"
 <br>(with Y. S. Baskaya)
