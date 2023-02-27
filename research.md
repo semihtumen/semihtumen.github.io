@@ -47,11 +47,6 @@ experiment and a structural model"
 <br>IZA DP <a href="https://docs.iza.org/dp10751.pdf" target="_blank">#11869</a>
 <br>R&R <i><b><font color="IndianRed">Journal of Banking & Finance</font></b></i></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "The effect of fertility on female labor supply in a labor market with extensive informality"
-<br>(with B. Turan)
-<br>IZA DP <a href="https://docs.iza.org/dp13986.pdf" target="_blank">#13986</a>
-<br>R&R <i><b><font color="IndianRed">Empirical Economics</font></b></i></p>
-
 <p><b><font color="Aqua">&#10018;</font></b> "Forced migration and housing rents: Evidence from Syrian refugees in Turkiye"
 <br>(with B. Balkan)
 <br>IZA DP <a href="https://docs.iza.org/dp11611.pdf" target="_blank">#11611</a>
