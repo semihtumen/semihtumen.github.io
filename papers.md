@@ -45,6 +45,11 @@ layout: page
 <br>(with A. Ozturk)
 <br><i><b><font color="IndianRed">IZA Journal of Labor Economics</font></b></i>, forthcoming
 <br>IZA DP <a href="https://docs.iza.org/dp11733.pdf" target="_blank">#11733</a>
+    
+<p><b><font color="LightGreen">&#10018;</font></b> "The effect of fertility on female labor supply in a labor market with extensive informality"
+<br>(with B. Turan)
+<br><i><b><font color="IndianRed">Empirical Economics</font></b></i>, forthcoming
+<br>IZA DP <a href="https://docs.iza.org/dp13986.pdf" target="_blank">#13986</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Do vocational high school graduates have better employment outcomes than general high school graduates?"
 <br>(with H. Torun)
