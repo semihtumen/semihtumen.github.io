@@ -18,7 +18,7 @@ experiment and a structural model"
 
 <p><b><font color="Aqua">&#10018;</font></b> "Social interactions and unemployment fluctuations"
 <br>new version coming soon!
-<br>R&R <i><b><font color="IndianRed">American Economic Journal: Macroeconomics</font></b></i></p>
+<br>Rej.&R <i><b><font color="IndianRed">American Economic Journal: Macroeconomics</font></b></i></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
 <br>(with G. Asik)
