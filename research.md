@@ -21,7 +21,7 @@ experiment and a structural model"
 <br>Rej&R <i><b><font color="IndianRed">American Economic Journal: Macroeconomics</font></b></i></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
-<br>(with G. Asik)
+<br>(with S. Atay and G. Asik)
 <br>IZA DP <a href="https://docs.iza.org/dp16080.pdf" target="_blank">#16080</a>
 <br>R&R <i><b><font color="IndianRed">Oxford Bulletin of Economics and Statistics</font></b></i></p>
 
