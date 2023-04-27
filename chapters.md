@@ -6,7 +6,7 @@ layout: page
 <p><font size="+2"><b><u><font color="LightYellow">Chapters and other publications</font></u></b></font></p>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The case of Syrian refugees in Türkiye: Successes, challenges, and lessons learned"
-<br><i><b><font color="IndianRed">World Development Report</font></b></i>, background paper, The World Bank, April 2023
+<br><i><b><font color="IndianRed">World Development Report 2023</font></b></i>, background paper, The World Bank, April 2023
 <br><a href="https://www.worldbank.org/en/publication/wdr2023/backgroundpapers" target="_blank">[link to background paper]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The impact of forced displacement on housing and urban settlement in host communities"
