@@ -11,11 +11,6 @@ experiment and a structural model"
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528" target="_blank">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf" target="_blank">#14260</a>
 <br>R&R <i><b><font color="IndianRed">Journal of Political Economy</font></b></i></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
-<br>(with M. Vlassopoulos and J. Wahba)
-<br>IZA DP <a href="https://docs.iza.org/dp14557.pdf" target="_blank">#14557</a>
-<br>R&R <i><b><font color="IndianRed">Journal of Human Resources</font></b></i></p>
-
 <p><b><font color="Aqua">&#10018;</font></b> "Social interactions and unemployment fluctuations"
 <br>new version coming soon!
 <br>Rej&R <i><b><font color="IndianRed">American Economic Journal: Macroeconomics</font></b></i></p>
