@@ -5,6 +5,11 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Journal articles</font></u></b></font></p>
 
+<p><b><font color="Aqua">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
+<br>(with M. Vlassopoulos and J. Wahba)
+<br>IZA DP <a href="https://docs.iza.org/dp14557.pdf" target="_blank">#14557</a>
+<br><i><b><font color="IndianRed">Journal of Human Resources</font></b></i>, forthcoming
+
 <p><b><font color="LightGreen">&#10018;</font></b> "The economic impact of Syrian refugees on host countries: Quasi-experimental evidence from Turkey"
 <br><i><b><font color="IndianRed">American Economic Review</font></b></i> (P&P), 106(5), 456-460, 2016
 <br><a href="https://www.aeaweb.org/webcasts/2016/refugees" target="_blank">[AEA webcast]</a>, <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20161065" target="_blank">[link to article]</a>
