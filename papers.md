@@ -5,7 +5,7 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Journal articles</font></u></b></font></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
+<p><b><font color="LightGreen">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
 <br>(with M. Vlassopoulos and J. Wahba)
 <br>IZA DP <a href="https://docs.iza.org/dp14557.pdf" target="_blank">#14557</a>
 <br><i><b><font color="IndianRed">Journal of Human Resources</font></b></i>, forthcoming
