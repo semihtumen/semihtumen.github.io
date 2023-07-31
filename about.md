@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am a Professor of Economics at TED University. I am also affiliated with IZA and ERF as a Research Fellow. Before joining TED University, I served as a Deputy Governor, Head of Structural Economic Research, Deputy Head of Research and Monetary Policy, Economist, and Analyst at the Central Bank of the Republic of Turkey between 2002-2021.</p>
+<p>I am a Visiting Professor of Economics at Louisiana State University. I am affiliated with IZA and ERF as a Research Fellow. I was a Professor of Economics at TED University between 2018-2023. I also served as a Deputy Governor, Head of Structural Economic Research, Deputy Head of Research and Monetary Policy, Economist, and Analyst at the Central Bank of the Republic of Turkey between 2002-2021.</p>
 
 <p>I am interested in Applied Microeconomics with a particular focus on Labor Economics, Human Capital, Immigration/Refugees, Development Economics, and Social Interactions & Networks. My research draws on techniques in Causal Inference, Machine Learning, Structural Econometrics, and Bayesian Statistics.</p>
 
