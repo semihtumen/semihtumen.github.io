@@ -5,8 +5,11 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Research in progress</font></u></b></font></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field
-experiment and a structural model"
+<p><b><font color="Aqua">&#10018;</font></b> "Violence in hometown and human capital investment of refugee children"
+<br>(with C. G. Aksoy, G. Khanna, and V. Marino)
+<br>WP coming soon!
+
+<p><b><font color="Aqua">&#10018;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field experiment and a structural model"
 <br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528" target="_blank">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf" target="_blank">#14260</a>
 
