@@ -8,7 +8,7 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "The crime effect of refugees"
 <br>(with M. Akbulut-Yuksel, N. Mocan, and B. Turan)
 <br><i><b><font color="IndianRed">Journal of Policy Analysis and Management</font></b></i>, forthcoming
-<br>[<a href="https://cepr.org/voxeu/columns/crime-effect-refugees" target="_blank">VoxEU</a>], NBER WP <a href="https://www.nber.org/papers/w30070" target="_blank">#30070</a>, IZA DP <a href="https://docs.iza.org/dp15335.pdf" target="_blank">#15335</a>
+<br>[<a href="https://cepr.org/voxeu/columns/crime-effect-refugees" target="_blank">VoxEU</a>], NBER WP <a href="https://www.nber.org/papers/w30070" target="_blank">#30070</a>, IZA DP <a href="https://docs.iza.org/dp15335.pdf" target="_blank">#15335</a>, <a href="https://onlinelibrary.wiley.com/doi/10.1002/pam.22537" target="_blank">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
 <br>(with M. Vlassopoulos and J. Wahba)
