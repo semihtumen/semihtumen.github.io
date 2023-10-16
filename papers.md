@@ -13,7 +13,7 @@ layout: page
 <p><b><font color="LightGreen">&#10018;</font></b> "Training teachers for diversity awareness: Impact on school outcomes of refugee children"
 <br>(with M. Vlassopoulos and J. Wahba)
 <br><i><b><font color="IndianRed">Journal of Human Resources</font></b></i>, forthcoming
-<br>[<a href="https://population-europe.eu/research/policy-insights/do-training-programmes-teachers-ease-integration-refugee-children" target="_blank">Policy Insight</a>], IZA DP <a href="https://docs.iza.org/dp14557.pdf" target="_blank">#14557</a>, <a href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0622-12378R2" target="_blank">[link to article]</a>
+<br>[<a href="https://voxdev.org/topic/health-education/integrating-refugee-children-through-teacher-training" target="_blank">VoxDev</a>], [<a href="https://population-europe.eu/research/policy-insights/do-training-programmes-teachers-ease-integration-refugee-children" target="_blank">Policy Insight</a>], IZA DP <a href="https://docs.iza.org/dp14557.pdf" target="_blank">#14557</a>, <a href="https://jhr.uwpress.org/content/early/2023/08/02/jhr.0622-12378R2" target="_blank">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The economic impact of Syrian refugees on host countries: Quasi-experimental evidence from Turkey"
 <br><i><b><font color="IndianRed">American Economic Review</font></b></i> (P&P), 106(5), 456-460, 2016
