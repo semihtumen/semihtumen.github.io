@@ -17,6 +17,10 @@ layout: page
 <br>(with C. G. Aksoy, G. Khanna, and V. Marino)
 <br>WP coming soon!
 
+<p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
+<br>(with C. Ozden and S. Polat)
+<br>WP coming soon!
+
 <p><b><font color="Aqua">&#10018;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field experiment and a structural model"
 <br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528" target="_blank">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf" target="_blank">#14260</a>
@@ -34,10 +38,6 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
 <br>(with H. Ulucan)
 <br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>
-
-<p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
-<br>(with C. Ozden and S. Polat)
-<br>WP coming soon!
 
 <p><b><font color="Aqua">&#10018;</font></b> "Consumer loan response to permanent labor income shocks: Evidence from a major minimum wage increase"
 <br>(with Y.S. Hacihasanoglu)
