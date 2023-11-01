@@ -5,6 +5,10 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Research in progress</font></u></b></font></p>
 
+<p><b><font color="Aqua">&#10018;</font></b> "The power of language: Impact on educational outcomes and mental well-being of refugee children"
+<br>(with M. Vlassopoulos and J. Wahba)
+<br>WP coming soon!
+
 <p><b><font color="Aqua">&#10018;</font></b> "Under pressure: Electoral competition and women's representation"
 <br>(with P. Campa and P. O. Saygin)
 <br>WP coming soon!
