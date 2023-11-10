@@ -1,8 +1,6 @@
 # main text of home
 title: Semih Tumen
-bio: <div class="typewriter">
-  <h1>Economist</h1>
-</div>
+bio: <TT> Economist </TT>
 
 # twitter summary info
 description: Semih Tumen - Academic Webpage
