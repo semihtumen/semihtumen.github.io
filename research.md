@@ -13,7 +13,7 @@ layout: page
 <br>(with P. Campa and P. O. Saygin)
 <br>WP coming soon!
 
-<p><b><font color="Aqua">&#10018;</font></b> "Violence in hometown and human capital investment of refugee children"
+<p><b><font color="Aqua">&#10018;</font></b> "Hometown conflict and refugees' integration efforts"
 <br>(with C. G. Aksoy, G. Khanna, and V. Marino)
 <br>WP coming soon!
 
