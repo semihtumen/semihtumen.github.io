@@ -28,10 +28,6 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "Social interactions and unemployment fluctuations"
 <br>new version coming soon!
 
-<p><b><font color="Aqua">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
-<br>(with S. Atay and G. Asik)
-<br>IZA DP <a href="https://docs.iza.org/dp16080.pdf" target="_blank">#16080</a>
-
 <p><b><font color="Aqua">&#10018;</font></b> "The impact of low-skill refugees on youth education"
 <br>IZA DP <a href="https://docs.iza.org/dp11869.pdf" target="_blank">#11869</a>
 
