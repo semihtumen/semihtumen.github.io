@@ -5,6 +5,11 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Journal articles</font></u></b></font></p>
 
+<p><b><font color="Aqua">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
+<br>(with S. Atay and G. Asik)
+<br><i><b><font color="IndianRed">Oxford Bulletin of Economics and Statistics</font></b></i>, forthcoming
+<br>IZA DP <a href="https://docs.iza.org/dp16080.pdf" target="_blank">#16080</a>
+
 <p><b><font color="Aqua">&#10018;</font></b> "The crime effect of refugees"
 <br>(with M. Akbulut-Yuksel, N. Mocan, and B. Turan)
 <br><i><b><font color="IndianRed">Journal of Policy Analysis and Management</font></b></i>, forthcoming
