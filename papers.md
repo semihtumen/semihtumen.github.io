@@ -58,8 +58,8 @@ layout: page
     
 <p><b><font color="LightGreen">&#10018;</font></b> "The revolution is dead, long live the demolition: Education and labor market consequences of student riots"
 <br>(with A. Ozturk)
-<br><i><b><font color="IndianRed">IZA Journal of Labor Economics</font></b></i>, forthcoming
-<br>IZA DP <a href="https://docs.iza.org/dp11733.pdf" target="_blank">#11733</a>
+<br><i><b><font color="IndianRed">IZA Journal of Labor Economics</font></b></i>, 12(4), 2023
+<br>IZA DP <a href="https://docs.iza.org/dp11733.pdf" target="_blank">#11733</a>, <a href="https://sciendo.com/article/10.2478/izajole-2023-0004" target="_blank">[link to article]</a>
     
 <p><b><font color="LightGreen">&#10018;</font></b> "The effect of fertility on female labor supply in a labor market with extensive informality"
 <br>(with B. Turan)
