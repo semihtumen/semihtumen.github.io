@@ -36,11 +36,6 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "The impact of low-skill refugees on youth education"
 <br>IZA DP <a href="https://docs.iza.org/dp11869.pdf" target="_blank">#11869</a>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
-<br>(with H. Ulucan)
-<br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>
-<br> <i><b><font color="IndianRed">Review of Economics of the Household (R&R)</font></b></i>
-
 <p><b><font color="Aqua">&#10018;</font></b> "Consumer loan response to permanent labor income shocks: Evidence from a major minimum wage increase"
 <br>(with Y.S. Hacihasanoglu)
 <br>IZA DP <a href="https://docs.iza.org/dp10751.pdf" target="_blank">#11869</a>
