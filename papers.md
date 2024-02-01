@@ -38,6 +38,11 @@ layout: page
 <br><i><b><font color="IndianRed">Journal of Population Economics</font></b></i>, 29(3), 657-686, 2016
 <br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y" target="_blank">[Kuznets prize]</a>, IZA DP <a href="https://docs.iza.org/dp9642.pdf" target="_blank">#9642</a>, <a href="https://link.springer.com/article/10.1007/s00148-016-0583-2" target="_blank">[link to article]</a>
 
+<p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
+<br>(with H. Ulucan)
+<br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>
+<br> <i><b><font color="IndianRed">Review of Economics of the Household</font></b></i>, forthcoming
+
 <p><b><font color="LightGreen">&#10018;</font></b> "The impact of Syrian refugees on natives' labor market outcomes in Turkey: Evidence from a quasi-experimental design"
 <br>(with E. Ceritoglu, H.B. Gurcihan-Yunculer, and H. Torun)
 <br><i><b><font color="IndianRed">IZA Journal of Labor Policy</font></b></i>, 6(5), 2017
