@@ -41,7 +41,7 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
 <br>(with H. Ulucan)
 <br> <i><b><font color="IndianRed">Review of Economics of the Household</font></b></i>, forthcoming
-<br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>
+<br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>, <a href="https://link.springer.com/article/10.1007/s11150-024-09697-2" target="_blank">[link to article]</a>
 
 <p><b><font color="LightGreen">&#10018;</font></b> "The impact of Syrian refugees on natives' labor market outcomes in Turkey: Evidence from a quasi-experimental design"
 <br>(with E. Ceritoglu, H.B. Gurcihan-Yunculer, and H. Torun)
