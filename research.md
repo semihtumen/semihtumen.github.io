@@ -10,16 +10,16 @@ layout: page
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528" target="_blank">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf" target="_blank">#14260</a>
 <br> <i><b><font color="IndianRed">Journal of Political Economy (R&R)</font></b></i>
 
+<p><b><font color="Aqua">&#10018;</font></b> "Hometown conflict and refugees' integration efforts"
+<br>(with C. G. Aksoy, G. Khanna, and V. Marino)
+<br>CEPR DP <a href="https://cepr.org/publications/dp18918" target="_blank">#18918</a>, IZA DP <a href="https://docs.iza.org/dp16862.pdf" target="_blank">#16862</a>
+
 <p><b><font color="Aqua">&#10018;</font></b> "The power of language: Impact on educational outcomes and mental well-being of refugee children"
 <br>(with M. Vlassopoulos and J. Wahba)
 <br>WP coming soon!
 
 <p><b><font color="Aqua">&#10018;</font></b> "Under pressure: Electoral competition and women's representation"
 <br>(with P. Campa and P. O. Saygin)
-<br>WP coming soon!
-
-<p><b><font color="Aqua">&#10018;</font></b> "Hometown conflict and refugees' integration efforts"
-<br>(with C. G. Aksoy, G. Khanna, and V. Marino)
 <br>WP coming soon!
 
 <p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
