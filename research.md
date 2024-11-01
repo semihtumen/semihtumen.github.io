@@ -20,7 +20,7 @@ layout: page
 
 <p><b><font color="Aqua">&#10018;</font></b> "Under pressure: Electoral competition and women's representation"
 <br>(with P. Campa and P. O. Saygin)
-<br>WP coming soon!
+<br>IZA DP <a href="https://docs.iza.org/dp17386.pdf" target="_blank">#17386</a>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
 <br>(with C. Ozden and S. Polat)
