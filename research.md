@@ -25,11 +25,11 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
 <br>(with C. Ozden and S. Polat)
 <br>WP coming soon!
-<br> <i><b><font color="IndianRed">Journal of Economic Behavior & Organization (R&R)</font></b></i>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Refugees and natives' mortality: The role of infectious diseases"
 <br>(with M. A. Eryurt, M. Ozer, and I. Beyazit)
 <br>WP coming soon!
+<br> <i><b><font color="IndianRed">Journal of Economic Behavior & Organization (R&R)</font></b></i>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Social interactions and unemployment fluctuations"
 <br>new version coming soon!
