@@ -14,13 +14,13 @@ layout: page
 <br>(with C. G. Aksoy, G. Khanna, and V. Marino)
 <br><a href="https://cepr.org/voxeu/columns/hometown-conflict-and-refugees-integration-efforts" target="_blank">[VoxEU]</a>, CEPR DP <a href="https://cepr.org/publications/dp18918" target="_blank">#18918</a>, IZA DP <a href="https://docs.iza.org/dp16862.pdf" target="_blank">#16862</a>
 
-<p><b><font color="Aqua">&#10018;</font></b> "The power of language: Impact on educational outcomes and mental well-being of refugee children"
+<p><b><font color="Aqua">&#10018;</font></b> "The power of language: The impact of language training on the education and mental health of refugee children"
 <br>(with M. Vlassopoulos and J. Wahba)
 <br>WP coming soon!
 
 <p><b><font color="Aqua">&#10018;</font></b> "Under pressure: Electoral competition and women's representation"
 <br>(with P. Campa and P. O. Saygin)
-<br>IZA DP <a href="https://docs.iza.org/dp17386.pdf" target="_blank">#17386</a>
+<br>CEPR DP <a href="https://cepr.org/publications/dp19700" target="_blank">#19700</a>, IZA DP <a href="https://docs.iza.org/dp17386.pdf" target="_blank">#17386</a>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
 <br>(with C. Ozden and S. Polat)
