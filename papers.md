@@ -7,7 +7,7 @@ layout: page
 
 <p><b><font color="Aqua">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
 <br>(with S. Atay and G. Asik)
-<br><i><b><font color="IndianRed">Oxford Bulletin of Economics and Statistics</font></b></i>, forthcoming
+<br><i><b><font color="IndianRed">Oxford Bulletin of Economics and Statistics</font></b></i>, 86(3), 606-640, 2024
 <br>IZA DP <a href="https://docs.iza.org/dp16080.pdf" target="_blank">#16080</a>, <a href="https://onlinelibrary.wiley.com/doi/10.1111/obes.12593" target="_blank">[link to article]</a>
 
 <p><b><font color="Aqua">&#10018;</font></b> "The crime effect of refugees"
