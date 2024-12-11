@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am a Principal Economist at Amazon, FBA Science. I held faculty positions as a Professor of Economics at TED University and Louisiana State University. I also served as a Deputy Governor, Monetary Policy Committee Member, Head of Structural Economic Research, and Economist at the Central Bank of the Republic of Turkey. I am affiliated with IZA and ERF as a Research Fellow.</p>
+<p>I am a Senior Manager (Economics) at Amazon, FBA Science. I held faculty positions as a Professor of Economics at TED University and Louisiana State University. I also served as a Deputy Governor, Monetary Policy Committee Member, Head of Structural Economic Research, and Economist at the Central Bank of the Republic of Turkey. I am affiliated with IZA and ERF as a Research Fellow.</p>
 
 <p>I am interested in Applied Microeconomics with a particular focus on Labor Economics, Human Capital, and Social Interactions & Networks. My research draws on techniques in Causal Inference, Machine Learning, Structural Econometrics, and Bayesian Statistics.</p>
 
