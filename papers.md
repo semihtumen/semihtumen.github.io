@@ -5,6 +5,10 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Journal articles</font></u></b></font></p>
 
+<p><b><font color="Aqua">&#10018;</font></b> "Native-refugee education gap"
+<br>(with C. G. Aksoy, G. Khanna, and V. Marino)
+<br><i><b><font color="IndianRed">AEA Papers & Proceedings</font></b></i>, forthcoming
+
 <p><b><font color="Aqua">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
 <br>(with S. Atay and G. Asik)
 <br><i><b><font color="IndianRed">Oxford Bulletin of Economics and Statistics</font></b></i>, 86(3), 606-640, 2024
