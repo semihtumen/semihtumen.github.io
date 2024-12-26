@@ -6,7 +6,7 @@ layout: page
 <p><font size="+2"><b><u><font color="LightYellow">Research in progress</font></u></b></font></p>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Advertising and firm productivity"
-<br>(with G. Asik, Y. S. Baskaya, J. Tsoukalas, and C. Syverson)
+<br>(with G. Asik, Y. S. Baskaya, C. Syverson, and J. Tsoukalas)
 <br>WP coming soon!
 
 <p><b><font color="Aqua">&#10018;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field experiment and a structural model"
