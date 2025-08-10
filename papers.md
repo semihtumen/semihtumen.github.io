@@ -7,7 +7,8 @@ layout: page
 
 <p><b><font color="Aqua">&#10018;</font></b> "Native-refugee education gap"
 <br>(with C. G. Aksoy, G. Khanna, and V. Marino)
-<br><i><b><font color="IndianRed">AEA Papers & Proceedings</font></b></i>, forthcoming
+<br><i><b><font color="IndianRed">AEA Papers & Proceedings</font></b></i>, 115, 427-431, 2025
+<br>CEPR DP <a href="https://cepr.org/publications/dp19914" target="_blank">#19914</a>, EBRD WP <a href="https://www.ebrd.com/home/news-and-events/publications/economics/working-papers/native-refugee-education-gap.html" target="_blank">#302</a>, <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20251026" target="_blank">[link to article]</a>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
 <br>(with S. Atay and G. Asik)
