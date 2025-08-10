@@ -12,11 +12,11 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field experiment and a structural model"
 <br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528" target="_blank">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf" target="_blank">#14260</a>
-<br> <i><b><font color="IndianRed">Journal of Political Economy (R&R)</font></b></i>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Hometown conflict and refugees' integration efforts"
 <br>(with C. G. Aksoy, G. Khanna, and V. Marino)
 <br><a href="https://cepr.org/voxeu/columns/hometown-conflict-and-refugees-integration-efforts" target="_blank">[VoxEU]</a>, CEPR DP <a href="https://cepr.org/publications/dp18918" target="_blank">#18918</a>, IZA DP <a href="https://docs.iza.org/dp16862.pdf" target="_blank">#16862</a>
+<br> <i><b><font color="IndianRed">Journal of the European Economic Association (R&R)</font></b></i>
 
 <p><b><font color="Aqua">&#10018;</font></b> "The power of language: Educational and mental health impacts of language training for refugee children"
 <br>(with M. Vlassopoulos and J. Wahba)
@@ -29,11 +29,6 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
 <br>(with C. Ozden and S. Polat)
 <br>WP coming soon!
-
-<p><b><font color="Aqua">&#10018;</font></b> "Refugees and natives' mortality: The role of infectious diseases"
-<br>(with M. A. Eryurt, M. Ozer, and I. Beyazit)
-<br>WP coming soon!
-<br> <i><b><font color="IndianRed">Journal of Economic Behavior & Organization (R&R)</font></b></i>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Social interactions and unemployment fluctuations"
 <br>new version coming soon!
