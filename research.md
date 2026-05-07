@@ -12,6 +12,7 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field experiment and a structural model"
 <br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528" target="_blank">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf" target="_blank">#14260</a>
+<br> <i><b><font color="IndianRed">Journal of Political Economy Microeconomics (R&R)</font></b></i>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Hometown conflict and refugees' integration efforts"
 <br>(with C. G. Aksoy, G. Khanna, and V. Marino)
@@ -21,6 +22,7 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "The power of language: Educational and mental health impacts of language training for refugee children"
 <br>(with M. Vlassopoulos and J. Wahba)
 <br>IZA DP <a href="https://docs.iza.org/dp17593.pdf" target="_blank">#17593</a>
+<br> <i><b><font color="IndianRed">Journal of Public Economics (R&R)</font></b></i>
 
 <p><b><font color="Aqua">&#10018;</font></b> "Under pressure: Electoral competition and women's representation"
 <br>(with P. Campa and P. O. Saygin)
