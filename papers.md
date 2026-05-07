@@ -5,7 +5,7 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Journal articles</font></u></b></font></p>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Native-refugee education gap"
+<p><b><font color="LightGreen">&#10018;</font></b> "Native-refugee education gap"
 <br>(with C. G. Aksoy, G. Khanna, and V. Marino)
 <br><i><b><font color="IndianRed">AEA Papers & Proceedings</font></b></i>, 115, 427-431, 2025
 <br>CEPR DP <a href="https://cepr.org/publications/dp19914" target="_blank">#19914</a>, EBRD WP <a href="https://www.ebrd.com/home/news-and-events/publications/economics/working-papers/native-refugee-education-gap.html" target="_blank">#302</a>, <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20251026" target="_blank">[link to article]</a>
@@ -15,12 +15,12 @@ layout: page
 <br><i><b><font color="IndianRed">Journal of Human Resources</font></b></i>, 61(1), 84-122, 2026
 <br><a href="https://voxdev.org/topic/health-education/integrating-refugee-children-through-teacher-training" target="_blank">[VoxDev]</a>, <a href="https://population-europe.eu/research/policy-insights/do-training-programmes-teachers-ease-integration-refugee-children" target="_blank">[Policy Insight]</a>, IZA DP <a href="https://docs.iza.org/dp14557.pdf" target="_blank">#14557</a>, <a href="https://jhr.uwpress.org/content/61/1/84" target="_blank">[link to article]</a>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
+<p><b><font color="LightGreen">&#10018;</font></b> "Impact of graduating with honors on entry wages of economics majors"
 <br>(with S. Atay and G. Asik)
 <br><i><b><font color="IndianRed">Oxford Bulletin of Economics and Statistics</font></b></i>, 86(3), 606-640, 2024
 <br>IZA DP <a href="https://docs.iza.org/dp16080.pdf" target="_blank">#16080</a>, <a href="https://onlinelibrary.wiley.com/doi/10.1111/obes.12593" target="_blank">[open access link]</a>
 
-<p><b><font color="Aqua">&#10018;</font></b> "The crime effect of refugees"
+<p><b><font color="LightGreen">&#10018;</font></b> "The crime effect of refugees"
 <br>(with M. Akbulut-Yuksel, N. Mocan, and B. Turan)
 <br><i><b><font color="IndianRed">Journal of Policy Analysis and Management</font></b></i>, 43(2), 472-508, 2024
 <br><a href="https://cepr.org/voxeu/columns/crime-effect-refugees" target="_blank">[VoxEU]</a>, NBER WP <a href="https://www.nber.org/papers/w30070" target="_blank">#30070</a>, IZA DP <a href="https://docs.iza.org/dp15335.pdf" target="_blank">#15335</a>, <a href="https://onlinelibrary.wiley.com/doi/10.1002/pam.22537" target="_blank">[link to article]</a>
@@ -43,7 +43,7 @@ layout: page
 <br><i><b><font color="IndianRed">Journal of Population Economics</font></b></i>, 29(3), 657-686, 2016
 <br><a href="https://link.springer.com/article/10.1007/s00148-016-0615-y" target="_blank">[Kuznets prize]</a>, IZA DP <a href="https://docs.iza.org/dp9642.pdf" target="_blank">#9642</a>, <a href="https://link.springer.com/article/10.1007/s00148-016-0583-2" target="_blank">[link to article]</a>
 
-<p><b><font color="Aqua">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
+<p><b><font color="LightGreen">&#10018;</font></b> "Empowered or impoverished: The impact of panic buttons on domestic violence"
 <br>(with H. Ulucan)
 <br> <i><b><font color="IndianRed">Review of Economics of the Household</font></b></i>, 22, 1423-1459, 2024
 <br>IZA DP <a href="https://docs.iza.org/dp12847.pdf" target="_blank">#12847</a>, <a href="https://link.springer.com/article/10.1007/s11150-024-09697-7" target="_blank">[link to article]</a>
