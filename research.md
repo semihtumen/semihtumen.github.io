@@ -9,6 +9,10 @@ layout: page
 <br>(with G. Asik, Y. S. Baskaya, C. Syverson, and J. Tsoukalas)
 <br>WP coming soon!
 
+<p><b><font color="Aqua">&#10018;</font></b> "Shielding women from violence: The effects of violence prevention and monitoring centers on intimate partner violence in Türkiye"
+<br>(with G. Asik, B. Erten, E. Tekin, and H. Ulucan)
+<br>NBER WP <a href="https://www.nber.org/papers/w34886" target="_blank">#34886</a>
+
 <p><b><font color="Aqua">&#10018;</font></b> "Ethnic mixing in early childhood: Evidence from a randomized field experiment and a structural model"
 <br>(with V. Boucher, M. Vlassopoulos, J. Wahba, and Y. Zenou)
 <br>CEPR DP <a href="https://cepr.org/publications/dp15528" target="_blank">#15528</a>, IZA DP <a href="https://docs.iza.org/dp14260.pdf" target="_blank">#14260</a>
@@ -30,9 +34,6 @@ layout: page
 <p><b><font color="Aqua">&#10018;</font></b> "Academic remediation of refugee students"
 <br>(with C. Ozden and S. Polat)
 <br>WP coming soon!
-
-<p><b><font color="Aqua">&#10018;</font></b> "Social interactions and unemployment fluctuations"
-<br>new version coming soon!
 
 <p><b><font color="Aqua">&#10018;</font></b> "The impact of low-skill refugees on youth education"
 <br>IZA DP <a href="https://docs.iza.org/dp11869.pdf" target="_blank">#11869</a>
