@@ -5,6 +5,11 @@ layout: page
 
 <p><font size="+2"><b><u><font color="LightYellow">Journal articles</font></u></b></font></p>
 
+<p><b><font color="LightGreen">&#10018;</font></b> "Echoes of hyperinflation: The link between past exposure and formation of expectations"
+<br>(with Y. E. Akgunduz, S. M. Cilasun, and A. Deryol)
+<br><i><b><font color="IndianRed">Journal of Economic Behavior & Organization</font></b></i>, 252, 107813, 2026
+<br>IZA DP <a href="https://docs.iza.org/dp18543.pdf" target="_blank">#18543</a>, CBRT WP <a href="https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Publications/Research/Working+Paperss/2026/26-18" target="_blank">#26/18</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268126004002" target="_blank">[link to article]</a>
+
 <p><b><font color="LightGreen">&#10018;</font></b> "Native-refugee education gap"
 <br>(with C. G. Aksoy, G. Khanna, and V. Marino)
 <br><i><b><font color="IndianRed">AEA Papers & Proceedings</font></b></i>, 115, 427-431, 2025
